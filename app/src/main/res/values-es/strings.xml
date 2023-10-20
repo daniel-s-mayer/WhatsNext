@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">Toque Comprar ahora para obtener el modo oscuro y suscripciones ilimitadas en What\'s Next.</string>
+    <string name="buyNowPromptTitle">¿Quieres habilitar el modo oscuro?</string>
+    <string name="buyNowPromptYes">COMPRAR AHORA</string>
+    <string name="buyNowPromptNo">NO, GRACIAS!</string>
+</resources>

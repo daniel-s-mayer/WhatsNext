@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">Appuyez sur Acheter maintenant pour obtenir le mode sombre et des abonnements illimités dans la suite.</string>
+    <string name="buyNowPromptTitle">Vous voulez activer le mode sombre?</string>
+    <string name="buyNowPromptYes">ACHETER MAINTENANT</string>
+    <string name="buyNowPromptNo">"NON MERCI "</string>
+</resources>

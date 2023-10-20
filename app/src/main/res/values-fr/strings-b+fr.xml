@@ -1,0 +1,30 @@
+<resources>
+    <string name="add_new_reminder">Ajouter un nouveau rappel</string>
+    <string name="add_new_subscription">Ajouter un nouvel abonnement</string>
+    <string name="amount">MONTANT:</string>
+    <string name="amounttext">AmountText</string>
+    <string name="app_name">Et après</string>
+    <string name="dark_mode">Mode sombre</string>
+    <string name="delete">SUPPRIMER</string>
+    <string name="due_next">DUE:</string>
+    <string name="emptyMore">Appuyez sur \'+\'; pour ajouter un abonnement.</string>
+    <string name="emptyMoreRem">Appuyez sur \'+\' pour ajouter un rappel.</string>
+    <string name="emptyTitle">PAS D\'ABONNEMENT MAINTENANT!</string>
+    <string name="emptyTitleRem">PAS DE RAPPELS MAINTENANT!</string>
+    <string name="high">HAUTE</string>
+    <string name="low">FAIBLE</string>
+    <string name="medium">MOYEN</string>
+    <string name="monthly">MENSUEL</string>
+    <string name="monthly_total">TOTAL MENSUEL:</string>
+    <string name="primary_currency">Devise principale</string>
+    <string name="save">ENREGISTRER</string>
+    <string name="settings">Paramètres</string>
+    <string name="title">Titre</string>
+    <string name="title_dashboard">Abonnements</string>
+    <string name="title_home">Rappels</string>
+    <string name="title_notifications">Paramètres</string>
+    <string name="total">TOTAL:</string>
+    <string name="total_number">NOMBRE TOTAL:</string>
+    <string name="yearly">ANNUEL</string>
+    <string name="yearly_total">TOTAL ANNUEL:</string>
+</resources>

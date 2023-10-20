@@ -1,0 +1,30 @@
+<resources>
+    <string name="add_new_reminder">新しいリマインダーを追加</string>
+    <string name="add_new_subscription">新しいサブスクリプションを追加</string>
+    <string name="amount">量：</string>
+    <string name="amounttext">AmountText</string>
+    <string name="app_name">次は何ですか</string>
+    <string name="dark_mode">ダークモード</string>
+    <string name="delete">削除</string>
+    <string name="due_next">期日 :</string>
+    <string name="emptyMore">\'+\'をタップしてサブスクリプションを追加します。</string>
+    <string name="emptyMoreRem">リマインダーを追加するには、\'+\'をタップします。</string>
+    <string name="emptyTitle">今すぐサブスクリプションはありません！</string>
+    <string name="emptyTitleRem">今すぐリマインダーはありません！</string>
+    <string name="high">高い</string>
+    <string name="low">低</string>
+    <string name="medium">中</string>
+    <string name="monthly">毎月</string>
+    <string name="monthly_total">月額合計：</string>
+    <string name="primary_currency">主要通貨</string>
+    <string name="save">保存する</string>
+    <string name="settings">設定</string>
+    <string name="title">題名</string>
+    <string name="title_dashboard">定期購入</string>
+    <string name="title_home">リマインダー</string>
+    <string name="title_notifications">設定</string>
+    <string name="total">合計：</string>
+    <string name="total_number">総数：</string>
+    <string name="yearly">毎年</string>
+    <string name="yearly_total">年間合計：</string>
+</resources>

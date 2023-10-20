@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">Qual è il prossimo</string>
+
+    <string name="title_home">promemoria</string>
+
+    <string name="title_dashboard">Sottoscrizioni</string>
+
+    <string name="title_notifications">impostazioni</string>
+
+    <string name="emptyTitle">NESSUN ABBONAMENTO ADESSO ORA!</string>
+
+    <string name="emptyMore">Tocca \\\'\\\' per aggiungere un abbonamento.</string>
+
+    <string name="emptyTitleRem">NESSUN RICORDO ADESSO!</string>
+
+    <string name="emptyMoreRem">Tocca \'+\' per aggiungere un promemoria.</string>
+
+    <string name="yearly_total">TOTALE ANNUALE:</string>
+
+    <string name="amounttext">AmountText</string>
+
+    <string name="monthly_total">TOTALE MENSILE:</string>
+
+    <string name="add_new_reminder">Aggiungi nuovo promemoria</string>
+
+    <string name="add_new_subscription">Aggiungi nuovo abbonamento</string>
+
+    <string name="title">Titolo</string>
+
+    <string name="save">SALVA</string>
+
+    <string name="monthly">MENSILE</string>
+
+    <string name="yearly">ANNUALE</string>
+
+    <string name="amount">QUANTITÀ:</string>
+
+    <string name="due_next">DOVUTO:</string>
+
+    <string name="delete">ELIMINA</string>
+
+    <string name="total">TOTALE:</string>
+
+    <string name="total_number">NUMERO TOTALE:</string>
+
+    <string name="settings">impostazioni</string>
+
+    <string name="dark_mode">Modalità scura</string>
+
+    <string name="primary_currency">Valuta primaria</string>
+
+    <string name="low">BASSO</string>
+
+    <string name="medium">MEDIO</string>
+
+    <string name="high">ALTA</string>
+
+</resources>

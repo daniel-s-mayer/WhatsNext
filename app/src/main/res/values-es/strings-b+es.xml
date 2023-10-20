@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">What\'s Next - SPANISH</string>
+    <string name="title_home">Recordatorios</string>
+    <string name="title_dashboard">Suscripciones</string>
+    <string name="title_notifications">Configuraciones</string>
+    <string name="emptyTitle">¡NO HAY SUSCRIPCIÓN AHORA!</string>
+    <string name="emptyMore">Toque \'+ \' para agregar una suscripción.</string>
+    <string name="emptyTitleRem">¡NO HAY MEMORIAS AHORA!</string>
+    <string name="emptyMoreRem">Toque \'+ \' para agregar un recordatorio.</string>
+    <string name="yearly_total">TOTAL DE ANO:</string>
+    <string name="amounttext">AmountText</string>
+    <string name="monthly_total">TOTAL DE MES:</string>
+    <string name="add_new_reminder">Agregar nuevo recordatorio</string>
+    <string name="add_new_subscription">Agregar nuevo subscripcion</string>
+    <string name="title">Titel</string>
+    <string name="monthly">MENSUAL</string>
+    <string name="yearly">ANUAL</string>
+    <string name="save">SALVAR</string>
+    <string name="amount">CANTIDAD:</string>
+    <string name="due_next">Debido:</string>
+    <string name="delete">CLARO</string>
+    <string name="total">TOTAL:</string>
+    <string name="total_number">NUMERO TOTAL:</string>
+    <string name="settings">Ajustes</string>
+    <string name="dark_mode">Modo Oscuro</string>
+    <string name="primary_currency">Currencidad Primeria</string>
+    <string name="low">BAJO</string>
+    <string name="medium">MEDIO</string>
+    <string name="high">ALTO</string>
+
+
+</resources>

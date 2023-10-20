@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "455255355632",
+    "firebase_url": "https://what-s-next-fd62d.firebaseio.com",
+    "project_id": "what-s-next-fd62d",
+    "storage_bucket": "what-s-next-fd62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455255355632:android:badd5bff1e75a59c92d235",
+        "android_client_info": {
+          "package_name": "com.mayerstudios.whatsnext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455255355632-6uef3mhsnbqlkei8cgib5fb18hh2uqtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW38RFrO7O7udYZo8uwoj6zuXFBaCSdgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455255355632-6uef3mhsnbqlkei8cgib5fb18hh2uqtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Wat is het volgende</string>
+    <string name="title_home">Herinneringen</string>
+    <string name="title_dashboard">Abonnementen</string>
+    <string name="title_notifications">Instellingen</string>
+    <string name="emptyTitle">GEEN ABONNEMENTEN NU NU!</string>
+    <string name="emptyMore">Tik op \'+\' om een abonnement toe te voegen.</string>
+    <string name="emptyTitleRem">GEEN HERINNERINGEN NU!</string>
+    <string name="emptyMoreRem">Tik op \'+\' om een herinnering toe te voegen.</string>
+    <string name="yearly_total">JAAR TOTAAL:</string>
+    <string name="amounttext">AmountText</string>
+    <string name="monthly_total">MAANDELIJKS TOTAAL:</string>
+    <string name="add_new_reminder">Nieuwe herinnering toevoegen</string>
+    <string name="add_new_subscription">Nieuw abonnement toevoegen</string>
+    <string name="title">Titel</string>
+    <string name="save">SPAREN</string>
+    <string name="monthly">MAANDELIJKS</string>
+    <string name="yearly">JAARLIJKS</string>
+    <string name="amount">BEDRAG:</string>
+    <string name="delete">VERWIJDEREN</string>
+    <string name="total">TOTAAL:</string>
+    <string name="total_number">TOTAAL AANTAL:</string>
+    <string name="settings">Instellingen</string>
+    <string name="dark_mode">Donkere modus</string>
+    <string name="primary_currency">Primaire valuta</string>
+    <string name="low">LAAG</string>
+    <string name="medium">MEDIUM</string>
+    <string name="high">HOOG</string>
+
+
+</resources>

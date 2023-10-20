@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">What\'s Next</string>
+    <string name="title_home">Reminders</string>
+    <string name="title_dashboard">Subscriptions</string>
+    <string name="title_notifications">Settings</string>
+    <string name="emptyTitle">NO SUBSCRIPTIONS RIGHT NOW!</string>
+    <string name="emptyMore">Tap \'+\' to add a subscription.</string>
+    <string name="emptyTitleRem">NO REMINDERS RIGHT NOW!</string>
+    <string name="emptyMoreRem">Tap \'+\' to add a reminder.</string>
+    <string name="yearly_total">YEARLY TOTAL:</string>
+    <string name="amounttext">AmountText</string>
+    <string name="monthly_total">MONTHLY TOTAL:</string>
+    <string name="add_new_reminder">Add New Reminder</string>
+    <string name="add_new_subscription">Add New Subscription</string>
+    <string name="title">Title</string>
+    <string name="save">SAVE</string>
+    <string name="monthly">MONTHLY</string>
+    <string name="yearly">YEARLY</string>
+    <string name="amount">AMOUNT:</string>
+    <string name="due_next">DUE NEXT:</string>
+    <string name="delete">DELETE</string>
+    <string name="total">TOTAL:</string>
+    <string name="total_number">TOTAL NUMBER:</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="primary_currency">Primary Currency</string>
+    <string name="low">LOW</string>
+    <string name="medium">MEDIUM</string>
+    <string name="high">HIGH</string>
+    <string name="messageMain">Tap Buy Now to get dark mode and unlimited subscriptions in What\'s Next.</string>
+    <string name="messageOneSubMain" translatable="false">You have one subscription due today. It is </string>
+    <string name="settingsicons" translatable="false">Icons from Icons8. <a href="https://icons8.com">Link to Icons8</a></string>
+    <string name="buyNowPromptTitle">Want to Enable Dark Mode?</string>
+    <string name="buyNowPromptYes">BUY NOW</string>
+    <string name="buyNowPromptNo">NO THANKS</string>
+
+
+
+
+
+</resources>

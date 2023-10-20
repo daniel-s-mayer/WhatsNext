@@ -1,0 +1,141 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/round"
+
+    android:dividerPadding="10dp"
+    android:orientation="horizontal"
+    android:divider="#FFCC00"
+    android:dividerHeight="2dp"
+    android:bottomRightRadius="20dp"
+    android:bottomLeftRadius="20dp"
+    android:topLeftRadius="20dp"
+    android:topRightRadius="20dp">
+
+
+    <!---ImageButton
+        android:id="@+id/actionButton"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:src="@drawable/icon_plus" /-->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_margin="10dp"
+        android:background="@drawable/round_small"
+
+
+        android:orientation="vertical"
+        android:divider="#FFCC00"
+        android:dividerHeight="2dp">
+
+        <TextView
+            android:id="@+id/textViewTotalDollarsLabel"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:gravity="center"
+            android:text="@string/total"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/textViewTotalDollars"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+
+            android:layout_weight="0.3"
+
+            android:gravity="center"
+            android:text="---"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewTotalNumbersLabel"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:gravity="center"
+            android:text="@string/total_number"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewTotalNumbers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:gravity="center"
+            android:text="-----"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/abc_text_size_large_material"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+    <!--View
+        android:layout_height="match_parent"
+        android:layout_width="2dp"
+
+        android:background="#000000" /-->
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:divider="#FFCC00"
+        android:dividerHeight="2dp"
+        android:background="@drawable/round_small"
+        android:layout_margin="10dp"
+        android:bottomRightRadius="20dp"
+        android:bottomLeftRadius="20dp"
+        android:topLeftRadius="20dp"
+        android:topRightRadius="20dp"
+
+        >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:gravity="center"
+            android:text="--"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/abc_text_size_large_material"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewItemDollars"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:gravity="center"
+            android:text="----"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/abc_text_size_large_material"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textViewItemTime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:gravity="center"
+            android:text="--------"
+            android:textColor="#FFFFFF"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

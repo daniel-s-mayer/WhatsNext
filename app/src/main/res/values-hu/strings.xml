@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">Koppintson a Vásárlás most elemre, ha sötét módot és korlátlan előfizetést szeretne kapni a Mi folytatásban.</string>
+    <string name="buyNowPromptTitle">Szeretné engedélyezni a sötét módot?</string>
+    <string name="buyNowPromptYes">"VÁSÁROLJ MOST "</string>
+    <string name="buyNowPromptNo">"NEM KÖSZÖNÖM "</string>
+</resources>

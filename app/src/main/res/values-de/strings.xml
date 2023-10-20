@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">Tippen Sie auf Jetzt kaufen, um den dunklen Modus und unbegrenzte Abonnements in \"Was kommt als nächstes?\" Zu erhalten.</string>
+    <string name="buyNowPromptTitle">Möchten Sie den Dunkelmodus aktivieren?</string>
+    <string name="buyNowPromptYes">"KAUFE JETZT "</string>
+    <string name="buyNowPromptNo">"NEIN DANKE "</string>
+</resources>

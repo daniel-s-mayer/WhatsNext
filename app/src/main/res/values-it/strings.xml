@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">Tocca Acquista ora per ottenere la modalità oscura e abbonamenti illimitati in What\'s Next.</string>
+    <string name="buyNowPromptTitle">Vuoi abilitare la modalità oscura?</string>
+    <string name="buyNowPromptYes">"ACQUISTA ORA "</string>
+    <string name="buyNowPromptNo">"NO GRAZIE "</string>
+</resources>

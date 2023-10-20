@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mi a következő lépés</string>
+    <string name="title_home">Emlékeztetők</string>
+    <string name="title_dashboard">Előfizetői</string>
+    <string name="title_notifications">Beállítások</string>
+    <string name="emptyTitle">NINCS FELVÉTELEK MOST MOST!</string>
+    <string name="emptyMore">Érintse meg a \'+\' elemet előfizetés hozzáadásához.</string>
+    <string name="emptyTitleRem">NEM EMLÉKEZTETIK MOST MOST!</string>
+    <string name="emptyMoreRem">Érintse meg a \'+\' gombot emlékeztető hozzáadásához.</string>
+    <string name="yearly_total">ÖSSZESEN:</string>
+    <string name="amounttext">AmountText</string>
+    <string name="monthly_total">HÓNAPOS ÖSSZESEN:</string>
+    <string name="add_new_reminder">Új emlékeztető hozzáadása</string>
+    <string name="add_new_subscription">Új előfizetés hozzáadása</string>
+    <string name="title">Cím</string>
+    <string name="save">MENTÉS</string>
+    <string name="monthly">HAVI</string>
+    <string name="yearly">ÉVI</string>
+    <string name="amount">ÖSSZEG:</string>
+    <string name="due_next">KÖVETKEZŐ:</string>
+    <string name="delete">TÖRÖL</string>
+    <string name="total">TELJES:</string>
+    <string name="total_number">TELJES SZÁM:</string>
+    <string name="settings">Beállítások</string>
+    <string name="dark_mode">Sötét mód</string>
+    <string name="primary_currency">Elsődleges pénznem</string>
+    <string name="low">ALACSONY</string>
+    <string name="medium">KÖZEPES</string>
+    <string name="high">MAGAS</string>
+
+
+</resources>

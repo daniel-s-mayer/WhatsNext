@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">무엇 향후 계획</string>
+    <string name="title_home">알림</string>
+    <string name="title_dashboard">구독</string>
+    <string name="title_notifications">설정</string>
+    <string name="emptyTitle">지금은 가입이 없습니다!</string>
+    <string name="emptyMore">구독을 추가하려면 \\\'\\\'을 탭하십시오.</string>
+    <string name="emptyTitleRem">지금 알림이 없습니다!</string>
+    <string name="emptyMoreRem">알림을 추가하려면 \\\'\\\'을 탭하십시오.</string>
+    <string name="yearly_total">매년 총계 :</string>
+    <string name="amounttext">AmountText</string>
+    <string name="monthly_total">매월 총계 :</string>
+    <string name="add_new_reminder">새 알림 추가</string>
+    <string name="add_new_subscription">새 구독 추가</string>
+    <string name="title">표제</string>
+    <string name="save">저장</string>
+    <string name="monthly">월간 간행물</string>
+    <string name="yearly">매년</string>
+    <string name="amount">양:</string>
+    <string name="due_next">다음 단계 :</string>
+    <string name="delete">지우다</string>
+    <string name="total">합계:</string>
+    <string name="total_number">총수 :</string>
+    <string name="settings">설정</string>
+    <string name="dark_mode">다크 모드</string>
+    <string name="primary_currency">기본 통화</string>
+    <string name="low">낮은</string>
+    <string name="medium">매질</string>
+    <string name="high">높은</string>
+
+
+</resources>

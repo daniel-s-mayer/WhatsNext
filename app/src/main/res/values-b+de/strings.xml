@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">What\'s Next</string>
+    <string name="title_home">Erinnerungen</string>
+    <string name="title_dashboard">Abonnements</string>
+    <string name="title_notifications">Einstellungen</string>
+    <string name="emptyTitle">JETZT KEINE ABONNEMENTS!</string>
+    <string name="emptyMore">Tippen Sie auf \'+ \', um ein Abonnement hinzuzufügen.</string>
+    <string name="emptyTitleRem">KEINE ERINNERUNGEN JETZT!</string>
+    <string name="emptyMoreRem">Tippen Sie auf \'+ \', um eine Erinnerung hinzuzufügen.</string>
+    <string name="yearly_total">JAHRESGESAMT:</string>
+    <string name="amounttext">AmountText</string>
+    <string name="monthly_total">MONATLICH GESAMT:</string>
+    <string name="add_new_reminder">Neue Erinnerung</string>
+    <string name="add_new_subscription">Neues Abonnement</string>
+    <string name="title">Titel</string>
+    <string name="monthly">MONATLICH</string>
+    <string name="yearly">JÄHRLICH</string>
+    <string name="save">SPAREN</string>
+    <string name="amount">MENGE:</string>
+    <string name="due_next">Fällig:</string>
+    <string name="delete">LÖSCHEN</string>
+    <string name="total">GESAMT:</string>
+    <string name="total_number">GESAMTZAHL:</string>
+    <string name="settings">Einstellungen</string>
+    <string name="dark_mode">Dunkler Modus</string>
+    <string name="primary_currency">Primärwährung</string>
+    <string name="low">NIEDRIG</string>
+    <string name="medium">MITTEL</string>
+    <string name="high">HOCH</string>
+
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">지금 구매를 탭하여 What \'s Next에서 다크 모드와 무제한 구독을 받으세요.</string>
+    <string name="buyNowPromptTitle">다크 모드를 활성화 하시겠습니까?</string>
+    <string name="buyNowPromptYes">"지금 구입 "</string>
+    <string name="buyNowPromptNo">"고맙지 만 사양 할게 "</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">[今すぐ購入]をタップして、「次のステップ」でダークモードと無制限のサブスクリプションを取得します。</string>
+    <string name="buyNowPromptTitle">ダークモードを有効にしますか？</string>
+    <string name="buyNowPromptYes">"今買う "</string>
+    <string name="buyNowPromptNo">"結構です "</string>
+</resources>

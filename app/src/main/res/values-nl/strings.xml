@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="messageMain">Tik op Nu kopen om de donkere modus en onbeperkte abonnementen te krijgen in What\'s Next.</string>
+    <string name="due_next">DUE:</string>
+    <string name="buyNowPromptTitle">Wilt u de donkere modus inschakelen?</string>
+    <string name="buyNowPromptYes">"KOOP NU "</string>
+    <string name="buyNowPromptNo">NEE</string>
+</resources>
