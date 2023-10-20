@@ -1,4 +1,3 @@
-<script src="path/to/md-gallery.js"></script>
 
 
 # What's Next
@@ -16,10 +15,14 @@ Compile the Gradle project using Android Studio.
 
 ## Usage
 
-* ![Main Screen](https://i.ibb.co/TkJ7XDG/Light-Mode-Dashboard-1.png)
-* ![Main Screen (Dark Mode)](https://i.ibb.co/qjc4Tk3/dark-Mode-Dashboard.png)
-* ![Add a Subscription](https://i.ibb.co/r4wqpyf/Add-Subscription-Dark.png)
-* ![Settings](https://i.ibb.co/XFKL2cZ/settings-Page-Dark.png)
+### Main Screen:
+![Main Screen](https://i.ibb.co/TkJ7XDG/Light-Mode-Dashboard-1.png)
+### Main Screen (Dark Mode): 
+![Main Screen (Dark Mode)](https://i.ibb.co/qjc4Tk3/dark-Mode-Dashboard.png)
+### Add Subscription:
+![Add a Subscription](https://i.ibb.co/r4wqpyf/Add-Subscription-Dark.png)
+### Settings:
+![Settings](https://i.ibb.co/XFKL2cZ/settings-Page-Dark.png)
 
 
 
@@ -32,6 +35,3 @@ Compile the Gradle project using Android Studio.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-<script>
-    md_gallery();
-</script>
