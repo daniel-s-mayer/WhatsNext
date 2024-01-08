@@ -1,4 +1,4 @@
-
+Please Note: "daniel100816" is my old GitHub account -- daniel-s-mayer and daniel100816 are the same person.
 
 # What's Next
 
