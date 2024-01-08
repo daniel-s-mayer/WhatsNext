@@ -2,7 +2,7 @@
 
 # What's Next
 
-A better way to manage your subscriptions. Available for Android 8.0
+A better way to manage your subscriptions. Available for Android 8.0+.
 
 ## Installation
 
